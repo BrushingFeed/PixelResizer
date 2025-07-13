@@ -22,3 +22,7 @@ MIT ライセンス
 * **画像を読み込む**をクリックして処理する画像を選択する
 * **倍率**を1から100までの範囲で変更する
 * **画像を保存する**をクリックして処理後の画像を保存する
+
+## その他
+* SHA256: 4c26fff69fdba3a084892b4178bd57b752ebfc46b9abe5cdca9cf3e34be0958d
+* Virustotal: https://www.virustotal.com/gui/file/4c26fff69fdba3a084892b4178bd57b752ebfc46b9abe5cdca9cf3e34be0958d
