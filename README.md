@@ -25,4 +25,4 @@ MIT ライセンス
 
 ## その他
 * SHA256: 4c26fff69fdba3a084892b4178bd57b752ebfc46b9abe5cdca9cf3e34be0958d
-* Virustotal: https://www.virustotal.com/gui/file/4c26fff69fdba3a084892b4178bd57b752ebfc46b9abe5cdca9cf3e34be0958d
+* VT: https://www.virustotal.com/gui/file/4c26fff69fdba3a084892b4178bd57b752ebfc46b9abe5cdca9cf3e34be0958d
