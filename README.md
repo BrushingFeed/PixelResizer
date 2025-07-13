@@ -13,8 +13,10 @@ MIT ライセンス
 ## サンプル画像
 **左が処理前、右が処理後**
 
+<p>
 <img width="256" height="256" alt="処理前" src="before.png" />
 <img width="256" height="256" alt="処理後" src="after.png" />
+</p>
 
 ## 使用方法
 * **画像を読み込む**をクリックして処理する画像を選択する
