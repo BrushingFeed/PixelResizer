@@ -4,6 +4,7 @@
 
 ## ライセンス
 MIT ライセンス
+
 著作権（C）UDONware Developments., DiR32.
 
 ## システム要件
